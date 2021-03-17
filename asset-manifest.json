@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nammon72/myRepository/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/nammon72/myRepository/static/js/main.65d556c6.chunk.js",
+    "main.js.map": "/nammon72/myRepository/static/js/main.65d556c6.chunk.js.map",
+    "runtime-main.js": "/nammon72/myRepository/static/js/runtime-main.b029822d.js",
+    "runtime-main.js.map": "/nammon72/myRepository/static/js/runtime-main.b029822d.js.map",
+    "static/js/2.0ee51ad6.chunk.js": "/nammon72/myRepository/static/js/2.0ee51ad6.chunk.js",
+    "static/js/2.0ee51ad6.chunk.js.map": "/nammon72/myRepository/static/js/2.0ee51ad6.chunk.js.map",
+    "static/js/3.2ec6fe0b.chunk.js": "/nammon72/myRepository/static/js/3.2ec6fe0b.chunk.js",
+    "static/js/3.2ec6fe0b.chunk.js.map": "/nammon72/myRepository/static/js/3.2ec6fe0b.chunk.js.map",
+    "index.html": "/nammon72/myRepository/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/nammon72/myRepository/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0ee51ad6.chunk.js.LICENSE.txt": "/nammon72/myRepository/static/js/2.0ee51ad6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/nammon72/myRepository/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b029822d.js",
+    "static/js/2.0ee51ad6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.65d556c6.chunk.js"
+  ]
+}
